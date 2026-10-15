@@ -23,16 +23,6 @@ body {
   display: none;
 }
 
-.section.nav-bar,
-.stack-card {
-  will-change: transform;
-}
-
-.nav-bar-glass-effect,
-.nav-bar-glass-tint {
-  will-change: backdrop-filter;
-}
-
 .profile-overlay,
 .name-wrapper {
   transition: opacity 500ms ease-in-out;
