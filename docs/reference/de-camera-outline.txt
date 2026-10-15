@@ -1,0 +1,208 @@
+<body>
+  <div #8dec7d5c-090d-1901-c .section nav-bar w-nav>
+    <div .nav-bar-glass-effect>
+    <div .nav-bar-glass-tint>
+    <div .nav-bar-glass-shine>
+    <div .nav-bar-glass-filter w-embed>
+      <svg {display: none}>
+        <filter #glass-distortion>
+          <feturbulence>
+          <fecomponenttransfer>
+            <fefuncr>
+            <fefuncg>
+            <fefuncb>
+          <fegaussianblur>
+          <fespecularlighting>
+            <fepointlight>
+          <fecomposite>
+          <fedisplacementmap>
+    <div .container nav-bar w-container>
+      <a .brand w-nav-brand>
+        <img .image-11 | 68c4abbf9fd62ae427cbb8ed_OculomiX Final Logo.png | OculomiX Logo>
+      <nav .nav-menu w-nav-menu>
+        <div .nav-grid>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .dropdown-toggle w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+      <nav .nav-menu mobile w-nav-menu>
+        <div .nav-bar-glass-effect>
+        <div .nav-bar-glass-tint>
+        <div .nav-bar-glass-shine>
+        <div .nav-grid>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+      <div #d5d2a1ed-695e-74bf-c .lottie-wrap>
+        <div #13476c82-c593-5eea-f .lottie-animation>
+  <section .section>
+    <div #6d820d7f-9042-b922-c .blob-background top {opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rota}>
+    <div .background-fade-div small-top>
+    <div .w-layout-blockcontainer container header w-container>
+      <h2 #6d820d7f-9042-b922-c .h5-page-header {opacity:0}>
+      <p #6d820d7f-9042-b922-c .h6-page-subheader {opacity:0}>
+  <section .section no-buffer header>
+    <div .w-layout-blockcontainer container with-buffer w-container>
+      <div .two-buttons-wrapper>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+  <section .section no-buffer header>
+    <div .w-layout-blockcontainer container with-buffer w-container>
+  <section .section white-background>
+    <div .w-layout-blockcontainer container is-animation w-container>
+      <div .w-layout-grid grid _12>
+        <div #w-node-_9d06a5b2-133 .camera-text-wrapper l>
+          <div #9728079e-dc4e-66fb-e .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <p .aa-body-subheader>
+            <p .aa-body>
+            <img .image-13 | 6916c8defb9940e0f38da6a7_Line combi 4.svg>
+          <div #637abedb-a2f6-bd19-9 .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .image-13 | 6916c8edcafeba014e64557c_Line combi 2.svg>
+            <p .aa-body-subheader>
+            <p .aa-body>
+        <img .image-9 sticky-right | 68c4aa593e4158f2a07d4a4b_three fourths_front_right>
+        <div #w-node-_9c8ef9e3-7b8 .camera-text-wrapper l>
+          <div #9c8ef9e3-7b85-4735-0 .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .image-13 | 6916c8edcafeba014e64557c_Line combi 2.svg>
+            <p .aa-body-subheader>
+            <p .aa-body>
+            <a .button w-inline-block>
+              <p .aa-button>
+        <div #w-node-_17ce6f75-2e5 .camera-text-wrapper auto>
+          <div .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <p .aa-body-subheader>
+            <p .aa-body>
+            <img .image-13 | 6916c8dd1a3036d8349cf833_Line combi 5.svg>
+          <div #f89b34e1-e6ca-b59e-8 .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .image-13 | 6916c8edcafeba014e64557c_Line combi 2.svg>
+            <p .aa-body-subheader>
+            <p .aa-body>
+          <div .hook-variable-div camera r>
+            <img .image-13 | 6916c8de709deccf2f4b1a94_Line combi 6.svg>
+            <p .aa-body-subheader>
+            <p .aa-body>
+        <div #w-node-_9abd565b-dd0 .camera-text-wrapper l wrapper-button>
+          <div .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <p .aa-body-subheader>
+            <p .aa-body>
+          <a .button w-inline-block>
+            <p .aa-button>
+          <img .image-13 | 6916c8defb9940e0f38da6a7_Line combi 4.svg>
+        <div #w-node-_29d55adf-02f .camera-text-wrapper auto>
+          <img .image-13 | 6916c8de709deccf2f4b1a94_Line combi 6.svg>
+          <div .hook-variable-div camera {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <p .aa-body-subheader>
+            <p .aa-body>
+      <img .image-9 sticky-right is-visible | 68c4aa593e4158f2a07d4a4b_three fourths_front_right>
+  <section .section>
+    <div .w-layout-blockcontainer container w-container>
+      <div .w-layout-grid image-wrapper>
+        <div #w-node-_28515a35-e7a .flex-button-left uitdaging-page extraspace>
+          <div #28515a35-e7a5-5cac-2 .header-pre-flex {opacity:0}>
+            <p .h4-section-preheader>
+            <h2 .h2-section-header-primary>
+          <div .text-wrapper>
+            <p #28515a35-e7a5-5cac-2 .aa-body {opacity:0}>
+            <div #b06b64ef-bfa9-51c1-c .w-layout-vflex right-column-wrapper is-gap40px {opacity:0}>
+              <div .w-layout-vflex right-column-wrapper>
+                <div .subheader-wrapper>
+                  <img .circle-icon | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+                  <div .hook-variable-div>
+                    <p .aa-body-subheader>
+                    <p .aa-body>
+                <div .subheader-wrapper>
+                  <img .circle-icon | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+                  <div .hook-variable-div>
+                    <p .aa-body-subheader>
+                    <p .aa-body>
+              <a .button w-inline-block>
+                <p .aa-button>
+        <div .image-wrapper-main>
+          <div #28515a35-e7a5-5cac-2 .image_eye-wrapper>
+            <img .image-camera | 6a25a664949fc39a3534ac4f_ChatGPT Image Jun 7, 2026>
+  <section .section>
+    <div .w-layout-blockcontainer container w-container>
+      <div .w-layout-grid grid _4-6>
+        <div #w-node-d48f85fe-4441 .header-pre-flex>
+          <h2 .h2-section-header-primary>
+            <br . | >
+          <p .aa-body>
+        <div #w-node-d48f85fe-4441 .flex-button-right middle>
+          <a .button _100 w-inline-block>
+            <p .aa-button>
+          <a .button _100 w-inline-block>
+            <p .aa-button>
+  <section .section footer>
+    <div .blob-background footer>
+    <div .w-layout-blockcontainer container w-container>
+      <div .footer-container>
+        <div .footer-wrapper grid>
+          <div #w-node-_43cb6886-e0f .div-block-3>
+            <img .image-17 | 69182ea058c01e989a6d4686_Logo OculomiX beige.png>
+            <div .footer-contact-wrapper is-small>
+              <div .socials-wrapper>
+                <div .social-icon w-embed>
+                  <svg>
+                    <path>
+                <a .button footer w-inline-block>
+                  <p .aa-button footer>
+                    <br . | >
+          <div #w-node-_056314f0-b53 .footer-contact-wrapper grid>
+            <a #w-node-_056314f0-b53 .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block w--current>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+    <div .aa-body-subheader footer>

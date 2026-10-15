@@ -1,0 +1,206 @@
+<body>
+  <div #8dec7d5c-090d-1901-c .section nav-bar w-nav>
+    <div .nav-bar-glass-effect>
+    <div .nav-bar-glass-tint>
+    <div .nav-bar-glass-shine>
+    <div .nav-bar-glass-filter w-embed>
+      <svg {display: none}>
+        <filter #glass-distortion>
+          <feturbulence>
+          <fecomponenttransfer>
+            <fefuncr>
+            <fefuncg>
+            <fefuncb>
+          <fegaussianblur>
+          <fespecularlighting>
+            <fepointlight>
+          <fecomposite>
+          <fedisplacementmap>
+    <div .container nav-bar w-container>
+      <a .brand w-nav-brand>
+        <img .image-11 | 68c4abbf9fd62ae427cbb8ed_OculomiX Final Logo.png | OculomiX Logo>
+      <nav .nav-menu w-nav-menu>
+        <div .nav-grid>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .dropdown-toggle w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+      <nav .nav-menu mobile w-nav-menu>
+        <div .nav-bar-glass-effect>
+        <div .nav-bar-glass-tint>
+        <div .nav-bar-glass-shine>
+        <div .nav-grid>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+      <div #d5d2a1ed-695e-74bf-c .lottie-wrap>
+        <div #13476c82-c593-5eea-f .lottie-animation>
+  <section .section>
+    <div #019fd590-f57b-e3f0-7 .blob-background top {opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rota}>
+    <div .background-fade-div small-top>
+    <div .w-layout-blockcontainer container header w-container>
+      <h2 #a65a9bc9-d065-a014-4 .h5-page-header {opacity:0}>
+      <p #923269df-324b-15c9-6 .h6-page-subheader {opacity:0}>
+  <section .section no-buffer header>
+    <div .w-layout-blockcontainer container with-buffer w-container>
+      <div .two-buttons-wrapper>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+        <a .button w-inline-block>
+          <p .aa-button>
+  <section .section no-buffer header>
+    <div .w-layout-blockcontainer container is-buttons w-container>
+  <section .section is-white>
+    <div .w-layout-blockcontainer container hook w-container>
+      <div .w-layout-grid grid _2-10>
+        <div #w-node-ff90cdfb-d1ad .header-pre-flex sticky>
+          <h3 .h4-section-preheader>
+          <h2 .h2-section-header-primary>
+            <br . | >
+        <div #w-node-_794abb6e-858 .hook-variable-wrapper uitdaging>
+          <div #2f2beb86-520b-f105-e .subheader-wrapper big-gap {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .circle-icon long | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+            <div .hook-variable-div>
+              <p .aa-body-subheader>
+              <p .aa-body>
+          <div #3ce012f8-1550-824c-7 .subheader-wrapper big-gap {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .circle-icon long | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+            <div .hook-variable-div>
+              <p .aa-body-subheader>
+              <p .aa-body>
+          <div #bf46e60d-c58b-7bf2-e .subheader-wrapper big-gap {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .circle-icon long | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+            <div .hook-variable-div>
+              <p .aa-body-subheader>
+              <p .aa-body>
+            <div .cylinder-icon>
+          <div #a12a6f86-d249-1f54-0 .subheader-wrapper big-gap {opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) r}>
+            <img .circle-icon long | 69166f02409e8525b6e41f21_PhCircleNotchThin.svg>
+            <div .hook-variable-div>
+              <p .aa-body-subheader>
+              <p .aa-body>
+  <section .section>
+    <div .w-layout-blockcontainer container w-container>
+      <div #b8fab5f8-0ae0-64f6-5 .w-layout-grid grid numbers>
+        <div .numbers-div>
+          <div .numbers-variable-div>
+            <p .aa-numbers-no>
+              <span>
+            <p .aa-numbers-text>
+        <div .numbers-div>
+          <div .numbers-variable-div>
+            <p .aa-numbers-no>
+              <span>
+            <p .aa-numbers-text>
+        <div .numbers-div>
+          <div .numbers-variable-div>
+            <p .aa-numbers-no>
+            <p .aa-numbers-text>
+  <section .section>
+    <div .w-layout-blockcontainer container w-container>
+      <div .w-layout-grid image-wrapper>
+        <div #3fe98f9a-dd66-6191-5 .flex-button-left uitdaging-page extraspace {opacity:0}>
+          <div .header-pre-flex>
+            <h2 .h2-section-header-primary>
+          <div .text-wrapper>
+            <p .aa-body>
+            <p .aa-body>
+        <div #d2855039-c3c6-fd48-3 .image-wrapper-main {opacity:0}>
+          <div #596b2a16-3890-ec16-a .image_eye-wrapper>
+            <img .image-sticky-uitdaging | 6a25d0bf54dbb1a98adf174e_ChatGPT Image Jun 7, 2026>
+        <div #w-node-_6312039e-e87 .flex-button-left uitdaging-page extraspace {opacity:0}>
+          <div .header-pre-flex>
+            <h2 .h2-section-header-primary>
+          <div .text-wrapper>
+            <p .aa-body>
+              <br . | >
+            <p .aa-body>
+        <div #81e0ddc2-58d0-b80a-0 .flex-button-left uitdaging-page {opacity:0}>
+          <div .header-pre-flex>
+            <h2 .h2-section-header-primary>
+          <div .text-wrapper>
+            <p .aa-body>
+            <p .aa-body>
+              <br . | >
+              <br . | >
+  <section .section white-fade>
+    <div .w-layout-blockcontainer container w-container>
+      <div .w-layout-grid grid _4-6>
+        <div #w-node-d897247d-e4cb .header-pre-flex>
+          <h2 .h2-section-header-primary>
+          <p .aa-body>
+        <div #w-node-_75d97f9d-80b .flex-button-right middle>
+          <a .button w-inline-block>
+            <p .aa-button>
+  <section .section footer>
+    <div .blob-background footer>
+    <div .w-layout-blockcontainer container w-container>
+      <div .footer-container>
+        <div .footer-wrapper grid>
+          <div #w-node-_43cb6886-e0f .div-block-3>
+            <img .image-17 | 69182ea058c01e989a6d4686_Logo OculomiX beige.png>
+            <div .footer-contact-wrapper is-small>
+              <div .socials-wrapper>
+                <div .social-icon w-embed>
+                  <svg>
+                    <path>
+                <a .button footer w-inline-block>
+                  <p .aa-button footer>
+                    <br . | >
+          <div #w-node-_056314f0-b53 .footer-contact-wrapper grid>
+            <a #w-node-_056314f0-b53 .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block w--current>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+    <div .aa-body-subheader footer>

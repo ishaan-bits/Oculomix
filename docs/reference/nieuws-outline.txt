@@ -1,0 +1,118 @@
+<body>
+  <div #8dec7d5c-090d-1901-c .section nav-bar w-nav>
+    <div .nav-bar-glass-effect>
+    <div .nav-bar-glass-tint>
+    <div .nav-bar-glass-shine>
+    <div .nav-bar-glass-filter w-embed>
+      <svg {display: none}>
+        <filter #glass-distortion>
+          <feturbulence>
+          <fecomponenttransfer>
+            <fefuncr>
+            <fefuncg>
+            <fefuncb>
+          <fegaussianblur>
+          <fespecularlighting>
+            <fepointlight>
+          <fecomposite>
+          <fedisplacementmap>
+    <div .container nav-bar w-container>
+      <a .brand w-nav-brand>
+        <img .image-11 | 68c4abbf9fd62ae427cbb8ed_OculomiX Final Logo.png | OculomiX Logo>
+      <nav .nav-menu w-nav-menu>
+        <div .nav-grid>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .dropdown-toggle w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_8dec7d5c-090 .aa-button menu w-inline-block>
+            <div>
+      <nav .nav-menu mobile w-nav-menu>
+        <div .nav-bar-glass-effect>
+        <div .nav-bar-glass-tint>
+        <div .nav-bar-glass-shine>
+        <div .nav-grid>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <div .aa-button menu w-dropdown>
+            <div .w-dropdown-toggle>
+              <div .w-icon-dropdown-toggle>
+              <div>
+            <nav .dropdown w-dropdown-list>
+              <a .aa-button w-dropdown-link>
+              <a .aa-button w-dropdown-link>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block w--current>
+            <div>
+          <a #w-node-_85e4aaa2-6a0 .aa-button menu w-inline-block>
+            <div>
+      <div #d5d2a1ed-695e-74bf-c .lottie-wrap>
+        <div #13476c82-c593-5eea-f .lottie-animation>
+  <section .section>
+    <div .blob-background top>
+    <div .background-fade-div small-top>
+    <div .w-layout-blockcontainer container header w-container>
+      <h5 .h5-page-header>
+      <h6 .h6-page-subheader>
+        <br . | >
+  <section .section no-buffer header>
+    <div .w-layout-blockcontainer container w-container>
+      <div .hook-content-flex>
+        <h3 .h2-section-header-primary>
+          <br . | >
+    <section .section white-fade>
+      <div .w-layout-blockcontainer container w-container>
+        <div .div-empty white-background>
+  <section .section footer>
+    <div .blob-background footer>
+    <div .w-layout-blockcontainer container w-container>
+      <div .footer-container>
+        <div .footer-wrapper grid>
+          <div #w-node-_43cb6886-e0f .div-block-3>
+            <img .image-17 | 69182ea058c01e989a6d4686_Logo OculomiX beige.png>
+            <div .footer-contact-wrapper is-small>
+              <div .socials-wrapper>
+                <div .social-icon w-embed>
+                  <svg>
+                    <path>
+                <a .button footer w-inline-block>
+                  <p .aa-button footer>
+                    <br . | >
+          <div #w-node-_056314f0-b53 .footer-contact-wrapper grid>
+            <a #w-node-_056314f0-b53 .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block>
+              <p .aa-button footer>
+            <a .button footer w-inline-block w--current>
+              <p .aa-button footer>
+    <div .aa-body-subheader footer>

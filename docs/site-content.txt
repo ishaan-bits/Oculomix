@@ -1,0 +1,898 @@
+==========================================================================
+OCULOMIX.COM - SITEMAP, WIREFRAMES AND PAGE TEXT
+Source: https://www.oculomix.com/ (fetched 13 Oct 2026)
+Language of site: Dutch (NL). Built with Webflow.
+Note: this file contains text and structure only. Colors, fonts, spacing,
+animations and exact visuals are NOT captured (no browser rendering available).
+==========================================================================
+
+
+--------------------------------------------------------------------------
+1. SITEMAP (10 pages)
+--------------------------------------------------------------------------
+/                              Home
+/uitdaging                     De uitdaging
+/de-camera                     De camera
+/voor-wie                      Voor wie
+/oculomix-managed-service      OculomiX Managed Service
+/eigen-beheer                  Eigen Beheer
+/over-ons                      Over ons
+/nieuws                        Nieuws
+/contact                       Contact
+/privacy-statement             Privacy statement
+
+(An FAQ is mentioned on the Contact page, but no FAQ link was found in the
+navigation or footer.)
+
+
+--------------------------------------------------------------------------
+2. GLOBAL ELEMENTS (repeated on every page)
+--------------------------------------------------------------------------
+
+2.1 HEADER / NAVIGATION (has desktop and mobile versions; content is duplicated)
+  [Logo: OculomiX Final Logo.png -> links to /]
+  Links:  De uitdaging | De camera | Voor wie
+  Label:  "Onze services:"
+     Sub-links: OculomiX Managed Service | Eigen Beheer
+  Links:  Over ons | Nieuws | Contact
+
+2.2 FOOTER (wireframe)
+  +----------------------------------------------------------------+
+  | [Logo: Logo OculomiX beige.png]        info@oculomix.ai        |
+  |                                                                |
+  | Home | Oculomix managed service | De uitdaging | Eigen beheer  |
+  | De camera | Contact | Over ons | Privacy statement | Nieuws     |
+  |                                                                |
+  | 2026 (c) Copyright Oculomix                                    |
+  +----------------------------------------------------------------+
+
+2.3 RECURRING CTA BAND (appears near the bottom of most pages, above the footer)
+  Heading: "Retinal screening made easy"
+  Text:    "Neem gerust contact met ons op voor meer informatie."
+  Button:  "Neem contact op" -> /contact
+  (A full-width background image sits behind it; it differs per page.)
+
+2.4 RECURRING "KLIK / CHECK / KLAAR" 3-STEP STRIP
+  Used on Home, Managed Service and Eigen Beheer. Text varies slightly (see pages).
+
+2.5 RECURRING SECTION: "OculomiX in de praktijk" - Pilot results
+  Used on Home and Voor wie.
+  Heading (H3): "Veelbelovende Resultaten Bevestigen Onze Werkwijze"
+  Text: "De eerste pilots, waarbij gebruikgemaakt werd van de camera en AI,
+  zijn succesvol afgerond bij huisartsenpraktijk De Meidoorn in Brummen en
+  huisartsenpraktijk Hohmann & de Vett in Rotterdam. Bij deze pilots zijn
+  tientallen diabetespatienten op zowel diabetische retinopathie (DR) als
+  glaucoom parallel in een sessie gescreend. Bij deze screenings zijn
+  meerdere indicaties vastgesteld van zowel DR als Glaucoom die tot op dit
+  moment niet bekend waren bij huisarts en patient."
+  Image: right/left of text (ChatGPT Image Jun 7, 2026, 07_14_09 PM.png)
+
+2.6 RECURRING SECTION: "Certificering" + "Evaluatie van AI-algoritme"
+  Used on Home and Voor wie.
+  Eyebrow: "OculomiX in de praktijk"
+  Heading (H3): "Certificering"
+  4 icon rows (icon: PhCircleNotchThin.svg):
+    - De camera beschikt over Europese Medical Device Registration (EU-MDR)
+    - Het diabetische retinopathie AI-algoritme is CE-gecertificeerd
+    - Het glaucoom AI-algoritme is CE-gecertificeerd
+    - Het AMD AI-algoritme is CE-gecertificeerd
+  Image: (ChatGPT Image Jun 7, 2026, 07_11_51 PM.png)
+  Eyebrow: "OculomiX in de praktijk"
+  Subheading: "Evaluatie van AI-algoritme"
+  2 icon rows:
+    - De externe validatie van het glaucoom AI-algoritme CE-certificering is
+      uitgevoerd door Oogziekenhuis Rotterdam
+    - De externe validatie van het AMD AI-algoritme voor CE-certificering is
+      uitgevoerd door Erasmus Universiteit
+
+
+==========================================================================
+PAGE 1: HOME  (/)
+==========================================================================
+SEO meta description: "Revolutionaire netvliesscreening met AI voor diabetische
+retinopathie, glaucoom en maculadegeneratie. Klinisch gevalideerd en
+CE-gemarkeerd."
+Page title: OculomiX
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | HERO: H1 "Retinal screening made easy"                         |
+  |       Center/side: phone image (Phone Oculomix Shaped.png)     |
+  |       H1 line: "voor Glaucoom"   H1 line: "DR en AMD"          |
+  |       (nav links repeated in a hero sub-nav)                   |
+  +----------------------------------------------------------------+
+  | INTRO + 3 STEPS: H2 + paragraph (left) | image (right)         |
+  |   [Klik] [Check] [Klaar]  three columns                        |
+  +----------------------------------------------------------------+
+  | CHALLENGE TEASER: eyebrow, H2, 2 paragraphs, "Lees meer"       |
+  |   3 STAT COUNTERS in a row                                     |
+  +----------------------------------------------------------------+
+  | MISSION: eyebrow, H2, paragraph, "Lees meer" | photo (right)   |
+  +----------------------------------------------------------------+
+  | OUR SERVICES: H2 + intro, then 2 cards side by side            |
+  |   [Managed Service card]  [Eigen beheer card]                  |
+  +----------------------------------------------------------------+
+  | PILOT RESULTS (2.5)                                            |
+  +----------------------------------------------------------------+
+  | CERTIFICERING + EVALUATIE (2.6)                                |
+  +----------------------------------------------------------------+
+  | CTA BAND (2.3)                                                 |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H1: Retinal screening made easy
+  H1 (stacked): voor Glaucoom / DR en AMD
+
+  H2: AI-Gestuurde Netvliesscreening
+  Paragraph: "De innovatieve technologie en slimme AI-integratie maakt
+  diabetische retinopathie, AMD en glaucoom-screening eenvoudig, snel en
+  betrouwbaar - zonder onnodige doorverwijzingen en wachttijden."
+
+  3 steps:
+    Klik  - "Met de camera wordt een hoogwaardige netvliesfoto gemaakt."
+    Check - "Binnen seconden controleert CE-gecertificeerde AI de foto op
+            indicaties van diabetische retinopathie, AMD en glaucoom."
+    Klaar - "U ontvangt meteen een rapport."
+
+  Eyebrow (H4): Uw Uitdaging
+  H2: Als Onze Drijfveer Voor Innovatie
+  P1: "Het Nederlandse oogzorgsysteem staat onder toenemende druk. De
+      constante groei van patienten met oogziektes, de lange wachttijden en
+      een structureel tekort aan oogartsen vormen een groeiend risico voor
+      de toekomst"
+  P2: "Een miljoen mensen heeft inmiddels oogzorg nodig, terwijl er in
+      Nederland slechts circa 600 oogartsen beschikbaar zijn. Om deze
+      groeiende vraag ook in de toekomst te kunnen beantwoorden, moeten op
+      korte termijn toegankelijke screeningsmethoden mogelijk gemaakt
+      worden. Op deze manier kunnen wij zowel de patient helpen als de
+      oogzorg ontlasten."
+  Link: Lees meer -> /uitdaging
+
+  Stats (3 columns):
+    >56%     Van Europese glaucoom-gevallen niet gediagnostiseerd
+    >40.000  Nieuwe patienten met oogziekten per jaar
+    ~23      Totaal aantal gespecialiseerde glaucoomartsen in Nederland
+
+  Eyebrow (H4): Onze missie
+  H2: Het voorkomen van onnodige blindheid, door toegankelijke screening
+      mogelijk te maken binnen de oogzorg
+  P:  "OculomiX is opgericht met een simpele doelstelling: netvliesscreening
+      moet zo snel mogelijk toegankelijk worden in de zorg. Wij bouwen aan
+      een toekomst waarin preventieve screening beschikbaar is zonder
+      wachttijden. De CE-goedgekeurde AI-oplossingen maken zorgtrajecten
+      efficienter, zodat oogzorgprofessionals zich kunnen richten op
+      patienten die behandeling nodig hebben, terwijl vroege screening op
+      diabetische retinopathie, glaucoom en AMD mogelijk wordt."
+  P:  "Onze rol: het toegankelijk maken van netvliesscreening in de eerste-
+      en tweedelijnszorg."
+  Link: Lees meer -> /over-ons
+  Image: photo-1483519173755-be893fab1f46.jpeg
+
+  H2: Onze diensten
+  P:  "OculomiX biedt twee verschillende service vormen aan om
+      netvliesscreening toegankelijk te maken: het Oculomix Managed Service
+      en het Eigen Beheer"
+  P:  "Beide vormen zijn integreerbaar in uw informatiesystemen, waarmee we
+      snelle, betrouwbare screening faciliteren."
+
+  Card 1: OculomiX Managed Service
+    "OculomiX Managed Service biedt een volledig uitgewerkt en geregeld
+    screeningsproces op locatie. OculomiX levert de camera, een getrainde
+    screener, de AI-analyse, de rapportage en de systeemkoppeling. Ideaal
+    voor praktijken die ter plaatse willen screenen, zonder zelf daarmee
+    belast te worden."
+    Link: Lees meer -> /oculomix-managed-service
+
+  Card 2: Eigen beheer
+    "Eigen Beheer biedt de zorgprofessional de mogelijkheid om zelf de
+    netvliesscreening uit te voeren. OculomiX levert hier een screening
+    training, de AI-analyse, de rapportage en technische ondersteuning.
+    Ideaal voor praktijken die zelf periodiek hun patienten willen
+    screenen."
+    Link: Lees meer -> /eigen-beheer
+
+  Then: Pilot results (2.5), Certificering (2.6), CTA band (2.3), footer.
+
+
+==========================================================================
+PAGE 2: DE UITDAGING  (/uitdaging)
+==========================================================================
+SEO meta description: "Ontdek de uitdagingen in de Nederlandse oogzorg: lange
+wachttijden, tekort aan oogartsen en gebrekkige preventie. OculomiX biedt
+slimmere oogscreening."
+Page title: Uitdaging
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | PAGE HERO: H2 title + subtitle (+ sub-nav links)               |
+  +----------------------------------------------------------------+
+  | "BLINDE VLEKKEN": eyebrow + H2                                 |
+  |   4 icon+title+text blocks (grid / stacked)                    |
+  |   3 STAT COUNTERS                                              |
+  +----------------------------------------------------------------+
+  | ZIGZAG 1: H2 + 2 paragraphs (left) | image (right)             |
+  | ZIGZAG 2: H2 + 2 paragraphs                                    |
+  | ZIGZAG 3: H2 + 2 paragraphs + 1 paragraph                      |
+  +----------------------------------------------------------------+
+  | CTA BAND (custom: "Bestel de camera")                          |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H2: De uitdaging
+  Subtitle: "In een toenemend overbelast oogzorgsysteem, onnodige blindheid
+  voorkomen"
+  Sub-nav: De camera | Voor wie | Over ons | Nieuws | Contact
+
+  Eyebrow (H3): Een stille crisis in beeld gebracht
+  H2: De blinde vlekken binnen onze oogzorg
+
+  4 blocks (icon: PhCircleNotchThin.svg):
+    1. Explosieve stijging in zorgvraag
+       "De vergrijzing en toename van leefstijlaandoeningen zorgen voor een
+       sterke groei in het aantal mensen met oogaandoeningen."
+    2. Terwijl er reeds lange wachttijden zijn
+       "Patienten wachten vaak maanden op een afspraak of worden helemaal
+       niet gescreend. Hierdoor worden oogaandoeningen regelmatig te laat
+       ontdekt."
+    3. In een overbelast oogzorgsysteem
+       "Er zijn te onvoldoende oogprofessionals om aan de stijgende vraag te
+       voldoen. De zorgketens zitten vaak vast in oude structuren en kunnen
+       onvoldoende snel veranderen."
+    4. Waarin er weinig aan systematische preventie wordt gedaan
+       "Op dit moment wordt er nauwelijks tot niet preventief gescreend
+       (alleen DR) waardoor de oogzorg vaak alleen nog maar kan reageren."
+
+  Stats:
+    >56%     Van Europese glaucoom-gevallen niet gediagnostiseerd
+    >40.000  Nieuwe patienten met oogziekten per jaar
+    ~23      Totaal aantal gespecialiseerde glaucoomartsen in Nederland
+
+  H2: Waarom wachten als het om uw zicht gaat?
+  P1: "De lange wachttijden in de oogzorg zijn niet alleen ongewenst, maar
+      kunnen ook het risico op permanente schade verhogen. Zelfs met een
+      verwijsbrief duurt het nog vaak maanden voordat er plek is bij een
+      oogarts. Die vertraging betekent dat oogaandoeningen, zoals beginnende
+      schade aan de oogzenuw, ongemerkt kunnen verergeren."
+  P2: "OculomiX speelt hierop in door screening mogelijk te maken bij de
+      huisartsenpraktijk, waar patienten sneller en makkelijker terecht
+      kunnen voor een netvliesonderzoek."
+  Image: ChatGPT Image Jun 7, 2026, 07_29_17 PM.png
+
+  H2: De impact van het oogartsentekort
+  P1: "De oogzorg in Nederland draait op volle toeren, leunend op circa 600
+      oogartsen en duizend optometristen. Een vaste groep van oogspecialisten
+      moet steeds meer patienten helpen. Hierdoor lopen de wachttijden op, en
+      wordt het systeem langzaam overbelast. We moeten het werk van
+      oogspecialisten ontlasten."
+  P2: "OculomiX automatiseert de screening van netvliesbeelden. Screenen kan
+      door getrainde medewerkers worden uitgevoerd. Zo kan de patient eerder
+      geholpen worden, en houden we de oogzorgprofessional beschikbaar waar
+      die echt nodig is."
+
+  H2: Voorkomen is cruciaal
+  P1: "Hoewel veel mensen jaarlijks naar de tandarts of huisarts gaan, geldt
+      dit in de regel niet voor de oogarts. Er is tot op de dag van vandaag
+      geen landelijke screening voor glaucoom en maculadegeneratie. Hierdoor
+      worden deze aandoeningen vaak pas ontdekt als er al schade is
+      opgetreden."
+  P2: "Preventie vraagt dus om een andere aanpak: ogen monitoren voordat er
+      klachten ontstaan."
+  P3: "OculomiX brengt dit proces op gang door toegankelijke, snelle
+      screening aan te bieden op plekken waar mensen wel al komen, zoals de
+      huisartsenpraktijk."
+
+  CTA band:
+    H2: Retinal screening made easy
+    Text: "Ontdek hoe wij barrieres doorbreken en screening dichterbij
+    brengen"
+    Button: "Bestel de camera" -> /contact
+
+
+==========================================================================
+PAGE 3: DE CAMERA  (/de-camera)
+==========================================================================
+SEO meta description: "Compacte retina-camera met geavanceerde AI voor snelle
+screening op diabetische retinopathie, glaucoom en AMD. Direct inzetbaar in
+de huisartsenpraktijk."
+Page title: De camera
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | PAGE HERO: H2 "De camera" + subtitle (+ sub-nav)               |
+  +----------------------------------------------------------------+
+  | PRODUCT DIAGRAM (center): camera render (three_fourths_front_  |
+  |   right_new screen.png) with connector line graphics (SVG      |
+  |   "Line combi 2/4/5/6") linking callouts around it:            |
+  |                                                                |
+  |   [Beeldopname: klik]                    [AI-analyse: check]   |
+  |   [Managed service callout]                                    |
+  |   [DR callout]  [Glaucoom callout]  [AMD callout]              |
+  |   [Eigen beheer callout]                 [Rapport: Klaar]      |
+  +----------------------------------------------------------------+
+  | FUTURE: eyebrow + H2 + paragraph | timeline: 2 items           |
+  |   Button/link "Nieuws over OculomiX"                           |
+  +----------------------------------------------------------------+
+  | CTA BAND with 2 buttons                                        |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H2: De camera
+  Subtitle: "Met behulp van een AI-gestuurde, handzame camera is binnen
+  enkele minuten netvliesscreening mogelijk"
+  Sub-nav: De uitdaging | Voor wie | Over ons | Nieuws | Contact
+
+  Callouts:
+    Beeldopname: klik
+      "In slechts enkele seconden legt onze medisch gecertificeerde
+      retina-camera het netvlies haarscherp vast, vaak zonder dat
+      pupilverwijding nodig is."
+    AI-analyse: check
+      "De AI analyseert de beelden en direct na vastlegging op diabetische
+      retinopathie, AMD en glaucoom"
+    Oculomix managed service
+      "Wij zetten het gehele screeningsproces op en voeren het voor u uit.
+      Zo kunt u direct starten met netvliesonderzoek, zonder extra belasting
+      voor uw praktijk"
+      Link: Lees meer -> /oculomix-managed-service
+    Diabetische Retinopathie (DR)
+      "Het AI-algoritme voor diabetische retinopathie-screening is
+      CE-gecertificeerd en direct inzetbaar in de huisartsenpraktijk."
+    Glaucoom
+      "De AI voor glaucoomscreening is gereed, en CE-gecertificeerd."
+    Leeftijdsgebonden Maculadegeneratie (AMD)
+      "Het AI-algoritme voor AMD-screening is gereed, en CE-gecertificeerd"
+    Eigen beheer
+      "U beschikt zelf over de camera; wij verzorgen de AI-analyse,
+      rapportage, technische ondersteuning en koppeling met uw bestaande
+      systemen. Ideaal voor grotere praktijken of digitale zorgplatforms."
+      Link: Lees meer -> /eigen-beheer
+    Rapport: Klaar
+      "Binnen seconden is er een rapport met risicoindicatie van de
+      bovengenoemde ziektes"
+
+  Eyebrow: De toekomst van OculomiX
+  H2: Meer inzicht met elke scan
+  P:  "Bij OculomiX kijken wij verder dan alleen het oog. Het netvlies is
+      niet alleen een venster naar ooggezondheid, maar ook een unieke
+      toegangspoort tot het hele lichaam. Daarom werken we aan de
+      uitbreiding van de AI-algoritmes om met biomarkers in het oogbeeld ook
+      cardiovasculair risico, oorgaanziekten en neurodegeneratieve
+      aandoeningen te detecteren. Deze uitbreidingen maken van OculomiX een
+      krachtig hulpmiddel voor bredere preventieve zorg."
+  Timeline:
+    Cardiovasculair risico           2026
+    Neurodegeneratieve aandoeningen  2028+
+  Link: Nieuws over OculomiX -> /nieuws
+  (Note: source text says "oorgaanziekten"; likely a typo on the original site.)
+
+  CTA band:
+    H2: Retinal screening made easy
+    Text: "Ontdek hoe OculomiX de zorg ontlast met snelle, AI-gestuurde
+    netvliesscreening."
+    Buttons: "Voor wie is Oculomix" -> /voor-wie
+             "Bestel de camera" -> /contact
+
+
+==========================================================================
+PAGE 4: VOOR WIE  (/voor-wie)
+==========================================================================
+SEO meta description: "OculomiX biedt AI-gestuurde netvliesscreening voor
+huisartsen en oogartsen. Voorkom onnodige blindheid met directe resultaten en
+efficiente zorgverlening."
+Page title: Voor wie
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | PAGE HERO: H2 "Voor wie" + subtitle + sub-nav (4 links)        |
+  +----------------------------------------------------------------+
+  | HUISARTS: eyebrow + H2 + paragraph + 3 icon blocks | image     |
+  +----------------------------------------------------------------+
+  | OOGARTS:  eyebrow + H2 + 3 icon blocks             | image     |
+  +----------------------------------------------------------------+
+  | PILOT RESULTS (2.5)                                            |
+  +----------------------------------------------------------------+
+  | CERTIFICERING + EVALUATIE (2.6)                                |
+  +----------------------------------------------------------------+
+  | SERVICE PICKER: H2 + text + 2 buttons                          |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H2: Voor wie
+  Subtitle: "Huisartsen en oogartsen die de oogzorg toegankelijk en
+  efficienter willen maken"
+  Sub-nav: oculomix managed service | Eigen beheer | Bestellen (-> /contact)
+           | Nieuws
+
+  Eyebrow: De huisarts in focus
+  H2: Uw patient blijft bij u
+  P:  "Met OculomiX haalt u netvlies screening naar de praktijk. Uw patient
+      blijft dichtbij, krijgt snel duidelijkheid en u krijgt een duidelijke
+      risico-indicatie waarmee u zelf beslist tot doorverwijzen. Zo levert u
+      betere preventieve zorg."
+  Icon blocks:
+    - betere Patient journey
+      "U ontvangt binnen minuten een netvliesfoto met bijbehorend
+      risico-indicatie."
+    - Gecombineerde preventieve screening
+      "We combineren DR, AMD en glaucoomscreening in een sessie."
+    - Ook voor de POH-S uit te voeren
+      "De camera is eenvoudig te gebruiken en ideaal voor de POH-Somatiek."
+  Image: ChatGPT Image Jun 7, 2026, 07_07_43 PM.png
+
+  Eyebrow: De oogarts in focus
+  H2: Oculomix Maakt ruimte voor ogen die aandacht nodig hebben
+  Icon blocks:
+    - Van lange onderzoeken naar snelle screening
+      "OculomiX maakt van een tijdrovend onderzoekstraject een snelle
+      screening. Dat levert direct meer tijd en ruimte voor patienten die
+      echt aandacht nodig hebben."
+    - meer ruimte voor patienten met verhoogd risico
+      "Oogprofessionals kunnen hun aandacht richten op patienten met een
+      verhoogd risico."
+    - Kortere wachtlijst door efficiente screening
+      "Efficientere voorselectie verlagen de druk. Dit zorgt voor kortere
+      wachttijden en een betere patient journey, waardoor 'zieke' ogen
+      eerder behandeld kunnen worden."
+
+  Then: Pilot results (2.5), Certificering (2.6).
+
+  H2: Kies de service die bij uw praktijk past
+  Text: "OculomiX Managed Service neemt alle lasten van retinascreening
+  over; wij leveren de camera, hulpmedewerker voor screening, het platform,
+  de AI en HIS-koppeling. Eigen Beheer stelt u in staat om zelf uw patienten
+  te bedienen."
+  Buttons: OculomiX managed service -> /oculomix-managed-service
+           Eigen beheer -> /eigen-beheer
+
+
+==========================================================================
+PAGE 5: OCULOMIX MANAGED SERVICE  (/oculomix-managed-service)
+==========================================================================
+SEO meta description: "Volledig verzorgde netvliesscreening met AI-analyse
+voor diabetische retinopathie, glaucoom en AMD. Camera, medewerker en
+platform inbegrepen."
+Page title: OculomiX Managed Service
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | PAGE HERO: H2 + subtitle + sub-nav (4 links)                   |
+  +----------------------------------------------------------------+
+  | INTRO: H3 + paragraph (left)                                   |
+  |   [Klik] [Check] [Klaar]  three columns                        |
+  +----------------------------------------------------------------+
+  | PACKAGE: eyebrow + H2 + paragraph                              |
+  |   4 icon rows | image                                          |
+  |   Button "bestel deze service"                                 |
+  +----------------------------------------------------------------+
+  | CTA BAND (2.3)                                                 |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H2: Oculomix Managed Service
+  Subtitle: "AI-gedreven retina screening, volledig verzorgd in uw praktijk,
+  zonder capaciteitsbelasting"
+  Sub-nav: De camera | Eigen Beheer | Bestellen (-> /contact) | Nieuws
+
+  H3: Netvliesscreening in uw praktijk, zonder gedoe
+  P:  "Wilt u uw patienten snel en betrouwbaar screenen op oogaandoeningen?
+      Met OculomiX Managed Service haalt u professionele netvliesscreening
+      makkelijk naar uw praktijk zonder capaciteitsbelasting."
+  Steps:
+    Klik  - "Met de camera wordt een hoogwaardige netvliesfoto gemaakt."
+    Check - "Binnen seconden controleerd CE-gecertificeerde AI de foto op
+            tekenen van diabetische retinopathie, AMD en glaucoom."
+    Klaar - "U ontvangt meteen een rapport"
+
+  Eyebrow: Oculomix Managed Service
+  H2: Volledig ontzorgde screening in de huisartsenpraktijk
+  P:  "Het 'OculomiX Managed Service'-pakket is ontworpen voor zorgverleners
+      die retinascannen laagdrempelig willen integreren in hun praktijk,
+      zonder extra werkdruk. Wij leveren een complete service waarbij alles
+      voor u wordt geregeld; van het medisch apparaat tot de AI-analyse en
+      rapportage."
+  Icon rows:
+    - Wij leveren een netvliescamera (FOP-model) en een getrainde
+      screeningsmedewerker die op locatie werkt
+    - OculomiX levert AI-analyse van diabetis retinopathie, AMD en glaucoom
+    - Een beveiligd digitaal platform voor rapportage en integratie met uw
+      huisartseninformatiesysteem (HIS)
+    - Volledige operationele ondersteuning van OculomiX
+  Button: bestel deze service -> /contact
+  Image: ChatGPT Image Jun 7, 2026, 10_12_30 PM.png
+
+  CTA band (2.3).
+
+
+==========================================================================
+PAGE 6: EIGEN BEHEER  (/eigen-beheer)
+==========================================================================
+SEO meta description: "AI-gedreven netvliesanalyse met uw eigen camera.
+Automatische detectie van diabetische retinopathie, glaucoom en AMD.
+Volledige operationele ondersteuning."
+Page title: Eigen Beheer
+
+WIREFRAME: identical layout to Managed Service (Page 5).
+
+TEXT
+  H2: Eigen beheer
+  Subtitle: "AI-gedreven retina screening met uw eigen camera, waarmee u zelf
+  de screening uitvoert."
+  Sub-nav: De camera | oculomix managed service | Bestellen (-> /contact) |
+           Niews [sic - typo for "Nieuws"] (-> /nieuws)
+
+  H3: Je eigen patienten helpen: met een simpele scan
+  P:  "Wilt u zelf uw patienten screenen op oogaandoeningen? Met Eigen
+      Beheer introduceert u AI-ondersteunde netvliesanalyse in uw praktijk.
+      Ideaal voor artsen die zelf willen screenen en daarmee de
+      arts-patient relatie willen verbeteren."
+  Steps:
+    Klik  - "Met de camera wordt een hoogwaardige netvliesfoto gemaakt."
+    Check - "Binnen seconden controleerd CE-gecertificeerde AI de foto op
+            tekenen van diabetische retinopathie, AMD en glaucoom."
+    Klaar - "U ontvangt meteen een rapport"
+
+  Eyebrow: Eigen beheer
+  H2: Eigen retinascreening, volledig ondersteund
+  Icon rows:
+    - U koopt en bezit de netvliescamera zelf
+    - OculomiX levert AI-analyse van diabetis retinopathie, AMD en glaucoom
+    - Inclusief veilige rapportage via ons digitale platform, met koppeling
+      naar huisartsinformatiesystemen (HIS)
+    - Volledige technische ondersteuning van OculomiX
+  Button: bestel deze service -> /contact
+  Image: ChatGPT Image Jun 7, 2026, 10_17_50 PM.png
+
+  CTA band (2.3).
+
+
+==========================================================================
+PAGE 7: OVER ONS  (/over-ons)
+==========================================================================
+SEO meta description: "OculomiX maakt retinascreening toegankelijk bij
+huisartsen. Vroege detectie van diabetische retinopathie en glaucoom voorkomt
+onnodige blindheid."
+Page title: Over ons
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | PAGE HERO: H2 "Over ons" + subtitle + sub-nav                  |
+  +----------------------------------------------------------------+
+  | VISIE: eyebrow + H2 + 2 paragraphs + button | image (front.png)|
+  +----------------------------------------------------------------+
+  | PROBLEM: eyebrow + H2 + 2 paragraphs + button                  |
+  +----------------------------------------------------------------+
+  | MISSIE: H3 + 2 lines, then 3 icon blocks + button | image      |
+  +----------------------------------------------------------------+
+  | TEAM: 3 portrait cards in a row (photo, name, role)            |
+  +----------------------------------------------------------------+
+  | PARTNERS: eyebrow + H2 + 2 paragraphs + button | image         |
+  +----------------------------------------------------------------+
+  | CTA BAND (2.3)                                                 |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H2: Over ons
+  Subtitle: "De vraag naar retinascannen groeit sneller dan het aanbod;
+  daarom streven wij naar patient identificatie en behandeling voor het te
+  laat is."
+  Sub-nav: De uitdaging | De camera | Voor wie | Nieuws (note: links to
+           /eigen-beheer on the live site, probably a mistake)
+
+  Eyebrow: Onze Visie
+  H2: Het netvlies als spiegel van de algemene gezondheid
+  P1: "Het netvlies; een klein oppervlak met ongekende waarde. Een unieke
+      toegangspoort tot iemands gezondheid, zichtbaar zonder ingrijpende
+      handelingen. Maar ondanks bestaande technologieen, werd deze toegang
+      nauwelijks benut. Waarom? Omdat de zorgketen vastzit in oude
+      structuren. Omdat retina-scanners ontworpen zijn voor specialisten,
+      niet voor schaalbare zorg. En omdat niemand echt verder keek dan
+      alleen het apparaat."
+  P2: "Wij besloten dat het anders moest. We begonnen niet met het bouwen van
+      een betere camera; die bestond al. In plaats daarvan beantwoordden wij
+      de vraag hoe we deze technologie toegankelijk, schaalbaar en echt
+      impactvol konden maken. Zo ontstond OculomiX: een volledig
+      geintegreerde AI-gedreven screeningoplossing die de kracht van het
+      netvlies benut zoals nooit eerder"
+  Button: bestel deze service -> /contact
+
+  Eyebrow: Zichtverlies in de wachtrij
+  H2: Wazig beleid, scherpe gevolgen
+  P1: "Tijdens onze zoektocht werd een ding duidelijk: de Nederlandse
+      oogzorgsector is totaal overbelast. Met circa 600 oogartsen tegenover
+      meer dan een miljoen mensen die oogzorg nodig hebben, lopen de
+      wachttijden op. Dat leidt niet alleen tot frustratie, maar ook tot
+      onnodige blindheid die voorkomen had kunnen worden met tijdige
+      screening."
+  P2: "Wij willen dat anders gaan doen. Het netvlies is uniek: het is het
+      enige deel van het lichaam waar je bloedvaten en zenuwen direct kunt
+      observeren zonder invasieve ingreep. Door dat slim te gebruiken, met de
+      hulp van AI en schaalbare technologie, kunnen we chronische
+      oogaandoeningen vroegtijdig opsporen en onnodige schade voorkomen."
+  Button: bestel deze service -> /contact
+
+  H3: Onze missie
+  Text: "Bij OculomiX geloven we dat niemand onnodig zijn zicht zou moeten
+  verliezen. Wij voorkomen onnodige blindheid door het netvlies als spiegel
+  van de algemene gezondheid te gebruiken."  ("voorkomen onnodige blindheid"
+  is bold)
+  Icon blocks:
+    1. screening beschikbaar maken bij de huisarts
+       "We maken het mogelijk voor huisartsen om eenvoudig retinascreening
+       uit te voeren, zonder extra werkdruk. Dit voorkomt onnodige
+       verwijzingen, vermindert wachttijden bij oogartsen en brengt
+       preventie dichter bij de patient."
+    2. Glaucoomscreening toegankelijk maken voor diabetici
+       "Diabetespatienten hebben ook een verhoogd risico op glaucoom, maar
+       worden hier vaak niet op gescreend. OculomiX combineert DR-, AMD- en
+       glaucoomscreenings in een sessie, waardoor efficientie en vroege
+       detectie hand in hand gaan."
+    3. Jaarlijkse netvliesscreening
+       "Door jaarlijkse glaucoom screeningen op te zetten proberen we
+       patienten sneller op te sporen die niet bekend zijn, voordat het te
+       laat is voor een behandeling."
+  Button: bestel deze service -> /contact
+  Image: ChatGPT Image Jun 7, 2026, 07_07_43 PM.png
+
+  TEAM (3 cards: photo / name (H3) / role)
+    erik.jpg   - Erik Hoving       - Co-Founder
+    jerome.jpg - Jerome Koelewijn  - Co-Founder
+    jamie.png  - Jamie Tjoe Ny     - Co-Founder
+
+  Eyebrow: Zichtverlies in de wachtrij  (same eyebrow reused)
+  H2: In samenwerking met de top van de Nederlandse oogzorg
+  P1: "OculomiX werkt samen met een van de meest vooraanstaande medische
+      instellingen in Nederland om de betrouwbaarheid, kwaliteit en impact
+      van het AI-gestuurde netvliesdiagnostiek te beoordelen. Deze
+      samenwerkingen is essentieel om onze technologie klinisch te valideren
+      en landelijk op te schalen. Hieruit is gekomen dat het
+      glaucoom-algoritme, geevalueerd door dr. Hans Lemij van het
+      Oogziekenhuis Rotterdam, goede resultaten heeft op het gebied van
+      nauwkeurigheid en toepasbaarheid in de eerstelijnszorg."
+  P2: "Daarnaast bereiden we grootschalige pilotprojecten voor met onder
+      andere Rijnmond Dokters (meer dan 350 huisartsenpraktijken) en Bergman
+      Clinics, de grootste commerciele aanbieder van oogzorg in Nederland."
+  Button: bestel deze service -> /contact
+  Image: ChatGPT Image Jun 7, 2026, 07_14_09 PM.png
+
+
+==========================================================================
+PAGE 8: NIEUWS  (/nieuws)
+==========================================================================
+SEO meta description: "Volg de nieuwste updates van OculomiX en wereldwijde
+ontwikkelingen in AI-gestuurde retinascreening. Ontdek innovaties in
+oogzorg."
+Page title: Nieuws
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | TITLE (H5) + intro (H6)                                        |
+  +----------------------------------------------------------------+
+  | NEWS LIST (Webflow CMS collection list; currently empty state) |
+  |   Message: "Zie binnenkort"                                    |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H5: Nieuws
+  H6: "Volg de nieuwste updates van OculomiX en wereldwijde ontwikkelingen in
+  AI-gestuurde retinascreening. Ontdek hoe wij samen met zorgverleners en
+  onderzoekers werken aan oplossingen die de oogzorg fundamenteel
+  veranderen."
+  H3 (empty state): Zie binnenkort
+  Note: there are no news items live yet. If articles are added later, they
+  probably render as cards in a CMS list, with individual article pages
+  that could not be seen.
+
+
+==========================================================================
+PAGE 9: CONTACT  (/contact)
+==========================================================================
+SEO meta description: "Heeft u vragen of interesse in OculomiX diensten? Vul
+het contactformulier in en wij helpen u graag verder met onze camera
+oplossingen."
+Page title: Contact
+
+WIREFRAME
+  +----------------------------------------------------------------+
+  | HEADER / NAV                                                   |
+  +----------------------------------------------------------------+
+  | H1 "CONTACT" + intro text + notice about FAQ                   |
+  +----------------------------------------------------------------+
+  | CONTACT FORM (vertical stack)                                  |
+  |   Volledige naam:      [ text input ]                          |
+  |   E-mailadres:         [ email input ]                         |
+  |   Telefoonnummer:      [ tel input ]                           |
+  |   Onderwerp:           [ dropdown: Kies... ]                   |
+  |   Bericht:             [ textarea ]                            |
+  |   [ ] Ik heb de privacyverklaring gelezen & ga akkoord         |
+  |   [ Submit button ]                                            |
+  |   (hidden) error state: "Oops! Something went wrong while      |
+  |   submitting the form."                                        |
+  +----------------------------------------------------------------+
+  | FOOTER                                                         |
+  +----------------------------------------------------------------+
+
+TEXT
+  H1: CONTACT
+  P:  "Heeft u vragen, interesse in onze diensten, of wilt u samenwerken met
+      OculomiX? Vul het contactformulier in, dan helpen wij u graag verder."
+  Notice: "LET OP: veel antwoorden op vragen over de gebruiksaanwijzing van
+          het product staan op de FAQ."
+
+  Form fields:
+    Volledige naam:
+    E-mailadres:
+    Telefoonnummer:
+    Onderwerp:  options -> Kies... / OculomiX Managed Service / Eigen beheer
+                           / Vraag over product / Overig
+    Bericht:
+    Checkbox: "Ik heb de privacyverklaring gelezen & ga akkoord"
+  Error message (hidden by default): "Oops! Something went wrong while
+  submitting the form."
+  (The submit button label and success message were not visible in the
+  fetched text.)
+
+
+==========================================================================
+PAGE 10: PRIVACY STATEMENT  (/privacy-statement)
+==========================================================================
+Page title: Privacy statement
+Layout: simple text page - header, H1, numbered sections with body text,
+no footer content was returned in the fetch (the live page likely has the
+standard footer).
+
+TEXT
+  H1: Privacyverklaring OculomiX
+  "Laatst bijgewerkt: 2 november 2025."
+
+  1. Wie zijn wij?
+  "Deze website wordt beheerd door OculomiX ("OculomiX", "wij" of "ons"),
+  gevestigd aan [adres, postcode, plaats, land] en ingeschreven bij de KvK
+  onder nummer [KvK-nummer]. Contact voor privacyvragen: info@oculomix.nl."
+  (Placeholders "[adres, postcode, plaats, land]" and "[KvK-nummer]" are
+  still unfilled on the live site. Note the email domain here is .nl while
+  the rest of the site uses info@oculomix.ai.)
+
+  2. Toepassingsgebied
+  "Deze verklaring is van toepassing op de persoonsgegevens die je via onze
+  website invoert in het contactformulier: naam, e-mailadres, telefoonnummer,
+  onderwerp en bericht."
+
+  3. Welke gegevens verzamelen wij?
+   - Identificatie- en contactgegevens: naam, e-mail, telefoonnummer.
+   - Berichtinhoud: onderwerp en vrije tekst in je bericht.
+   - Technische basisgegevens (automatisch): IP-adres, datum/tijdstip en
+     (indien nodig) foutlogs om de dienst te beveiligen.
+  "Wij gebruiken geen trackingcookies zonder toestemming."
+
+  4. Doeleinden en rechtsgronden
+  "Wij gebruiken je gegevens uitsluitend voor:"
+   - Beantwoording van je vraag of verzoek en verdere correspondentie
+     daarover. Rechtsgrond: gerechtvaardigd belang (art. 6(1)(f) AVG) om
+     efficient te kunnen communiceren; en/of toestemming (art. 6(1)(a) AVG)
+     als je die actief geeft.
+   - Beveiliging en werking van de website (bijv. misbruikpreventie,
+     debugging). Rechtsgrond: gerechtvaardigd belang (art. 6(1)(f) AVG).
+  "Wij nemen geen geautomatiseerde besluitvorming met rechtsgevolgen en doen
+  geen profiling op basis van deze gegevens."
+
+  5. Bewaartermijnen
+   - Contactverzoeken: tot 24 maanden na de laatste interactie, zodat we je
+     vraag kunnen opvolgen en voor interne kwaliteitsborging.
+   - Technische logs: maximaal 6 maanden, tenzij noodzakelijk voor onderzoek
+     naar incidenten of juridische verplichtingen.
+  "Wanneer bewaartermijnen verstrijken, verwijderen of anonimiseren wij de
+  gegevens."
+
+  6. Delen met derden (verwerkers)
+  "Wij delen je gegevens niet voor marketing met derden. Wel kunnen
+  gecertificeerde dienstverleners (verwerkers) toegang hebben voor hosting,
+  e-mailafhandeling, CRM/ticketing en beveiliging. Met alle verwerkers hebben
+  wij verwerkersovereenkomsten gesloten. Doorgifte buiten de EER vindt
+  alleen plaats indien noodzakelijk en met passende waarborgen (bijv.
+  EU-standaardcontractbepalingen)."
+
+  7. Beveiliging
+  "Wij nemen passende technische en organisatorische maatregelen, waaronder
+  versleutelde transportlaag (HTTPS/TLS), toegangsbeheer, principe van
+  minimale toegang en periodieke back-ups. Geen enkel systeem is 100% veilig;
+  bij een datalek volgen wij de wettelijke meldplichten."
+
+  8. Jouw rechten
+  "Je hebt, binnen de wettelijke kaders, recht op:"
+   - Inzage, rectificatie, verwijdering, beperking van verwerking en
+     bezwaar (met name tegen verwerking op basis van gerechtvaardigd belang)
+   - Overdraagbaarheid (dataportabiliteit)
+   - Intrekken van toestemming (dit werkt niet met terugwerkende kracht)
+  "Verzoeken kun je richten aan info@oculomix.nl. Wij kunnen je vragen je
+  identiteit te bevestigen."
+
+  9. Minderjarigen
+  "Onze website en diensten zijn niet gericht op personen jonger dan 16 jaar.
+  Als je meent dat wij onbedoeld gegevens van een minderjarige hebben
+  verzameld, neem dan contact op via info@oculomix.nl zodat we passende
+  actie kunnen nemen."
+
+  10. Vragen of klachten
+  "Voor vragen kun je ons mailen via info@oculomix.nl."
+
+  12. Wijzigingen  (numbering jumps from 10 to 12 on the live site; section
+  11 is missing and a stray "J" precedes "12.")
+  "Wij kunnen deze privacyverklaring wijzigen. De meest recente versie staat
+  altijd op deze pagina; controleer daarom regelmatig op updates. Bij
+  materiele wijzigingen informeren wij je op passende wijze."
+
+
+--------------------------------------------------------------------------
+3. IMAGE / ASSET INVENTORY
+--------------------------------------------------------------------------
+All hosted on the Webflow CDN:
+  https://cdn.prod.website-files.com/68c49e864670591fd6828f27/<file>
+
+  68c4abbf9fd62ae427cbb8ed_OculomiX%20Final%20Logo.png      Header logo
+  69182ea058c01e989a6d4686_Logo%20OculomiX%20beige.png      Footer logo
+  68fbdc366d2e30b1353d2c9f_Phone%20Oculomix%20Shaped.png    Home hero phone
+  6a25d34c587d8591d7351aba_ChatGPT%20Image...10_23_21%20PM.png  Home intro
+  68f7708edfb217617c17051c_photo-1483519173755-be893fab1f46.jpeg Home mission
+  6a25a6ee7389bd93e608714c_ChatGPT%20Image...07_14_09%20PM.png  Pilot / partners
+  6a25a664949fc39a3534ac4f_ChatGPT%20Image...07_11_51%20PM.png  Certification
+  6a25d0bf54dbb1a98adf174e_ChatGPT%20Image...07_29_17%20PM.png  CTA / challenge
+  6a25a5ed54dbb1a98ad6269c_ChatGPT%20Image...07_07_43%20PM.png  Voor wie / mission
+  6a25d0bb8ef0cd3e84d8fdbc_ChatGPT%20Image...10_12_30%20PM.png  Managed service
+  6a25d1fbda980e41c8026005_ChatGPT%20Image...10_17_50%20PM.png  Eigen beheer
+  68c4aa593e4158f2a07d4a4b_three%20fourths_front_right_new%20screen.png  Camera render
+  68c4aa5aaaa343d0c2234393_front.png                        Over ons image
+  69fb4b2fc538033ebd0b5cd1_erik.jpg                         Team photo
+  69fb4b2f734f93260bdcb482_jerome.jpg                       Team photo
+  69fb4c7dc7e0e051f7280bec_jamie.png                        Team photo
+  69166f02409e8525b6e41f21_PhCircleNotchThin.svg            Bullet icon (Phosphor icon)
+  6916c8defb9940e0f38da6a7_Line%20combi%204.svg             Camera page connector
+  6916c8edcafeba014e64557c_Line%20combi%202.svg             Camera page connector
+  6916c8dd1a3036d8349cf833_Line%20combi%205.svg             Camera page connector
+  6916c8de709deccf2f4b1a94_Line%20combi%206.svg             Camera page connector
+
+
+--------------------------------------------------------------------------
+4. NOTES AND LIMITS
+--------------------------------------------------------------------------
+- Captured: all 10 pages linked from the navigation/footer. Text is as
+  fetched; Dutch diacritics (e, i, u with accents) were normalized in this
+  file's text, so compare against the live site for exact spelling.
+- NOT captured: colors, fonts, spacing, hover states, animations, scroll
+  effects, mobile layout, cookie banner (if any), the FAQ page, individual
+  news articles (none live), form submit/success states.
+- Wireframes are inferred from the order of content, not from rendered
+  layout. Column counts and left/right image placement are best guesses.
+- For true visual fidelity, run a Playwright/Chrome full-page screenshot
+  crawl locally on the 10 URLs above, and use browser DevTools to read
+  exact colors, fonts and spacing.
+- The site text, images and branding belong to OculomiX. Use this as a
+  structural reference and write original copy and branding for your own
+  site.

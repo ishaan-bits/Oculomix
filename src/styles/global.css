@@ -1,0 +1,47 @@
+@import 'tailwindcss';
+@import './webflow.css';
+
+html {
+  scroll-behavior: initial;
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+body {
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+}
+
+.w-nav-button {
+  display: none;
+}
+
+.profile-overlay,
+.name-wrapper {
+  transition: opacity 500ms ease-in-out;
+}
+
+.image-16.is-portrait {
+  transition: transform 500ms ease-in-out;
+}
+
+@media (min-width: 992px) {
+  .profile-total:hover .profile-overlay {
+    opacity: 0.5;
+  }
+
+  .profile-total:hover .name-wrapper {
+    opacity: 1;
+  }
+
+  .profile-total:hover .image-16.is-portrait {
+    transform: scale(1.1);
+  }
+}

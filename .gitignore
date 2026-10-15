@@ -1,0 +1,9 @@
+node_modules/
+dist/
+shots/
+.playwright-mcp/
+docs/capture-pack/
+docs/source-images/
+docs/design-assets/
+.DS_Store
+*.log
